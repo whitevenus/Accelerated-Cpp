@@ -12,11 +12,11 @@
 
 + [下载链接](resource/Accelerated C++中文版.pdf)
 
-<p align:center>==START==</p>
+<p style="text-align: center">==START==</p>
 
 ## 目录
 
 + [第0章 开始学习C++](booknotes/chapter00.md)|([课后练习答案](practice/chapter00/README.md))
 + 
 
-<p align:center>==End==</p>
+<p style="text-align: center">==End==</p>
