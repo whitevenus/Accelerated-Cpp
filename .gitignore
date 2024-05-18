@@ -1,5 +1,5 @@
 *.o
-a.out
+*.out
 *.sh
 .DS_Store
 
