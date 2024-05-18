@@ -12,12 +12,8 @@
 
 + [下载链接](resource/Accelerated-C++中文版.pdf)
 
-<center>==START==</center>
-
 ## 目录
 
 + [第0章 开始学习C++](booknotes/chapter00.md)|([课后练习答案](practice/chapter00/README.md))
 + 
-
-<center>==End==</center>
 
