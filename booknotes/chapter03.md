@@ -1,6 +1,6 @@
 # 计算学生成绩
 
-![概述](./images/04-avgScore.png)
+![概述](./images/04-AvgScore.png)
 
 ## 程序片段
 
