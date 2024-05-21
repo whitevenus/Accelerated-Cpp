@@ -1,6 +1,6 @@
 # Hello World
 
-![概述](./images/HelloWorld.png)
+![概述](./images/00-HelloWorld.png)
 
 ## 程序片段
 

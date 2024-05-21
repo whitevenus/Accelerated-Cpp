@@ -17,3 +17,4 @@
 - [第 0 章 开始学习 C++](booknotes/chapter00.md) | ([课后练习答案](practice/chapter00/README.md))
 - [第 1 章 使用字符串](booknotes/chapter01.md) | ([课后练习答案](practice/chapter01/README.md))
 - [第 2 章 循环和计数](booknotes/chapter02.md) | ([课后练习答案](practice/chapter02/README.md))
+- [第 3 章 使用批量数据](booknotes/chapter03.md) | ([课后练习答案](practice/chapter03/README.md))
